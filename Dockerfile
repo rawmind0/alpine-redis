@@ -1,4 +1,4 @@
-FROM rawmind/alpine-base:0.3.3-2
+FROM rawmind/alpine-base:3.8-0
 MAINTAINER Raul Sanchez <rawmind@gmail.com>
 
 # Install redis
